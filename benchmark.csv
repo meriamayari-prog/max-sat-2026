@@ -1,0 +1,22 @@
+instance,group,file,source,n,M,lambda,clauses_originally_hard,sha1,sha1_declared_by_source
+MaxSATQueriesinInterpretableClassifiers-heart_test_2_DNF_1_1,competition,benchmark/competition/MaxSATQueriesinInterpretableClassifiers-heart_test_2_DNF_1_1.wcnf,"MaxSAT Evaluation 2024, unweighted exact track",79,311,11,249,8492b6da6e6f056bd176ba025b642b05cd5d03f2,aaea73b2a78cc9be1f903a7ed1a30ea3a084a8b7
+pseudoBoolean-normalized-g9x3,competition,benchmark/competition/pseudoBoolean-normalized-g9x3.opb.msat.wcnf,"MaxSAT Evaluation 2024, unweighted exact track",27,54,7,27,311f996c97a1274f94606d5cc00bd9aec6e0ad7b,4e885af9f04960c42dd32acabbf6ecd25548798c
+pseudoBoolean-normalized-g9x9,competition,benchmark/competition/pseudoBoolean-normalized-g9x9.opb.msat.wcnf,"MaxSAT Evaluation 2024, unweighted exact track",81,162,20,81,db5e19f816ffc17fed1375d023657976f51b746c,a110bd2da8e8e8308311e42b5c9d806bfa088ad6
+wqueens-wqueens10_8,competition,benchmark/competition/wqueens-wqueens10_8.wcsp.dir.wcnf,"MaxSAT Evaluation 2024, unweighted exact track",100,1110,3,1030,da84366db6ac3b5ca0b9545ad361a5ae618bf2ed,6e66017daeadab9f7653fc005c395f4300bd2478
+wqueens-wqueens6_4,competition,benchmark/competition/wqueens-wqueens6_4.wcsp.dir.wcnf,"MaxSAT Evaluation 2024, unweighted exact track",36,230,1,206,0461aa17834dd9bc3cfd05694cfb007bae03a6d4,99af6cbf55fa46c8c2b1b8485af35c531a2c3757
+wqueens-wqueens8_6,competition,benchmark/competition/wqueens-wqueens8_6.wcsp.dir.wcnf,"MaxSAT Evaluation 2024, unweighted exact track",64,560,1,512,15e62fa9a06bbad02834221336609ff7af8fc7b1,75981f1450f861c340610560bcf6986b3f2c28aa
+2PHP_3,families,benchmark/families/2PHP_3.wcnf,formula.py 2php3,48,116,26,0,59a1bce6e7a747050f15264986607df9e8c0fa9a,
+2PHP_4,families,benchmark/families/2PHP_4.wcnf,formula.py 2php4,80,210,42,0,a4360dd20ac5cbcf927e76061743bde4e27f5739,
+2PHP_5,families,benchmark/families/2PHP_5.wcnf,formula.py 2php5,120,342,62,0,0bf12e50f650e349d1c09f4a1bcb2afe1a257922,
+2PHP_6,families,benchmark/families/2PHP_6.wcnf,formula.py 2php6,168,518,86,0,0872435457ba733b4921cbd07b87443142b18e5e,
+2PHP_7,families,benchmark/families/2PHP_7.wcnf,formula.py 2php7,224,744,114,0,febbf95a4a9cb45f16cdf4b48775da2ed70f0bc3,
+PHP_4_3,families,benchmark/families/PHP_4_3.wcnf,formula.py php3,24,58,13,0,9afaf45708e6492850d6ac03faf962fcd5a44f9c,
+PHP_5_4,families,benchmark/families/PHP_5_4.wcnf,formula.py php4,40,105,21,0,83b35113b65471ec2fd3d2eb840a1913a67cf665,
+PHP_6_5,families,benchmark/families/PHP_6_5.wcnf,formula.py php5,60,171,31,0,892a1bb9e7e4bc3bd29b002495dc25a55b3d915c,
+PHP_7_6,families,benchmark/families/PHP_7_6.wcnf,formula.py php6,84,259,43,0,8be6d60361204a41c281e6098f02da8aa61d209e,
+PHP_8_7,families,benchmark/families/PHP_8_7.wcnf,formula.py php7,112,372,57,0,c70c5cbbc93cc1bb7b58e511bfe4821f647cd973,
+Parity_11,families,benchmark/families/Parity_11.wcnf,formula.py parity11,22,55,12,0,13d38ced782aa4e2e236c3134af3acd67d6128ae,
+Parity_3,families,benchmark/families/Parity_3.wcnf,formula.py parity3,6,15,4,0,a5e72b0e6caa800448ba2a16505c1461513f2001,
+Parity_5,families,benchmark/families/Parity_5.wcnf,formula.py parity5,10,25,6,0,22a9cab49dfb78d524b6d2d10706512707f517eb,
+Parity_7,families,benchmark/families/Parity_7.wcnf,formula.py parity7,14,35,8,0,b94068ef81d5b7d71cfa1025f8321f785e1181fc,
+Parity_9,families,benchmark/families/Parity_9.wcnf,formula.py parity9,18,45,10,0,e160a4f51e08dd18e1e7647ce203d42995616306,
